@@ -1,0 +1,7 @@
+# Store Unreal assets and source media as ordinary Git binary files.
+*.uasset binary
+*.umap binary
+*.fbx binary
+*.FBX binary
+*.wav binary
+*.png binary
